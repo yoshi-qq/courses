@@ -1,0 +1,6 @@
+{
+    "typeCheckingMode": "strict",
+    "reportMissingTypeStubs": true,
+    "exclude": ["test", "**/__pycache__"],
+    "ignore": ["test"]
+}
